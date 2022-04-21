@@ -1,5 +1,5 @@
 # # Hi there 👋, I'm Renan Aquino
-## A FrontEnd Developer
+## I'm a FrontEnd Developer
 
 - 🔭 I’m currently working on **Grupo Boticario**
 - 🌱 I’m currently learning test e2e and integration with cypress
